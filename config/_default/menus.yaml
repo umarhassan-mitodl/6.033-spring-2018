@@ -1,0 +1,384 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 40fb5a3b-10ae-c787-e007-dfb9b099de9c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: dcd25f88-acf3-f72b-a2ad-5aae10daef4f
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 70f007d8-4ae8-a0b0-ea4f-00fa8931c506
+  name: 'Week 1: Operating Systems I'
+  pageRef: /pages/week-1/
+  weight: 40
+- identifier: d23c09ff-9de9-dc9c-b989-05d72c54fd66
+  name: 'Week 2: Operating Systems II'
+  pageRef: /pages/week-2/
+  weight: 50
+- identifier: 81056cb9-5545-9139-0582-b2e55570d21a
+  name: 'Week 3: Operating Systems III'
+  pageRef: /pages/week-3/
+  weight: 60
+- identifier: 0466ee2b-5ebb-72d0-ad4f-7badf3b6c645
+  name: 'Week 4: Operating Systems IV'
+  pageRef: /pages/week-4/
+  weight: 70
+- identifier: a8eaa3de-11de-35a2-f8d6-b2d186c97fc6
+  name: 'Week 5: Networking I'
+  pageRef: /pages/week-5/
+  weight: 80
+- identifier: 75800336-c3a2-ebee-84a1-8bb126a5a60b
+  name: 'Week 6: Networking II'
+  pageRef: /pages/week-6/
+  weight: 90
+- identifier: 0abfab7f-cd01-9a6a-159d-1afa3fd61f99
+  name: 'Week 7: Networking III'
+  pageRef: /pages/week-7/
+  weight: 100
+- identifier: 03839826-8d83-1a70-6fad-0af0bfa301d7
+  name: 'Week 8: Distributed Systems I'
+  pageRef: /pages/week-8/
+  weight: 110
+- identifier: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
+  name: 'Week 9: Distributed Systems II'
+  pageRef: /pages/week-9/
+  weight: 120
+- identifier: 62a94c78-a524-3c30-60aa-11c27ff81fc7
+  name: 'Week 10: Distributed Systems III'
+  pageRef: /pages/week-10/
+  weight: 130
+- identifier: c7a234fb-b37e-e20a-41b9-581882a0afcd
+  name: 'Week 11: Security I'
+  pageRef: /pages/week-11/
+  weight: 140
+- identifier: 463ad0d7-960d-0f16-fac5-ad1eab91ef20
+  name: 'Week 12: Security II'
+  pageRef: /pages/week-12/
+  weight: 150
+- identifier: 87aba984-30c8-d18b-3f71-7bdec998328f
+  name: 'Week 13: Security III'
+  pageRef: /pages/week-13/
+  weight: 160
+- identifier: a53ea92f-4c3d-bec4-3ffa-e7cf73d6eb29
+  name: 'Week 14: Security IV'
+  pageRef: /pages/week-14/
+  weight: 170
+- identifier: 73594177-84bd-559f-acb2-aadc9d04abe7
+  name: Design Project
+  pageRef: /pages/design-project
+  weight: 180
+- identifier: 1731a3ca-ac5f-faa7-8e0f-4b3bff50a1cc
+  name: Resource Index
+  pageRef: /pages/resource-index
+  weight: 190
+- identifier: e3329846-53d9-016b-a16d-adba4b432036
+  name: Infusing Active Learning into 6.033 Recitations
+  pageRef: /resources/infusing-active-learning-into-6
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 10
+- identifier: e63c00a2-e24c-93cc-5223-35b0a5f1e647
+  name: What Is Active Learning?
+  pageRef: /resources/what-is-active-learning
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 20
+- identifier: c376d0dd-384a-f6be-87ef-f4d6cd32feb0
+  name: Unique Aspects of the Course
+  pageRef: /resources/unique-aspects-of-the-course
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 30
+- identifier: 1e7e49dc-3b37-e0d9-d362-97d4a6e5e423
+  name: Why Active Learning?
+  pageRef: /resources/why_infusing-active-learning-into-6
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 40
+- identifier: b273e9a7-5e78-73fe-ad0e-7a180e6cae80
+  name: Getting Everyone on Board
+  pageRef: /resources/getting-everyone-on-board
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 50
+- identifier: 5303c7da-c0ff-5f0e-6844-2a6695ac861e
+  name: The Importance of Extensive Planning
+  pageRef: /resources/importance-of-extensive-planning
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 60
+- identifier: 4c860345-1055-a405-7e74-e6bb2895d799
+  name: Supporting Staff as Individuals
+  pageRef: /resources/supporting-staff-as-individuals
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 70
+- identifier: e771bd0b-e352-139d-acbb-3a4793142d55
+  name: Supporting Staff as a Group
+  pageRef: /resources/supporting-staff-as-a-group
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 80
+- identifier: bcb2ebba-6409-4be0-e70e-0ea2685851d8
+  name: Group Work to Class-Wide Discussion
+  pageRef: /resources/group-work-to-class-wide-discussion
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 90
+- identifier: 78c88887-ab18-4d53-f900-927a50ba8a65
+  name: Debates
+  pageRef: /resources/active-learning-activity-debates
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 100
+- identifier: 5dc920bd-bdee-9276-cae9-210b8529f6be
+  name: Drawing Pictures
+  pageRef: /resources/drawing-pictures
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 110
+- identifier: fec8db2d-f75c-585a-9d97-6611ecf7d33a
+  name: Acting Things Out
+  pageRef: /resources/acting-things-out
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 120
+- identifier: bc81939d-39ca-9b20-d235-a2bcfdc48df8
+  name: Did Active Learning Work?
+  pageRef: /resources/did-active-learning-work
+  parent: e75a8c08-e117-86c5-3503-1b5e10f0fe19
+  weight: 130
+- identifier: 6f82dc95-1f47-0c80-136f-e66e5ce7c473
+  name: Lecture 1 Outline
+  pageRef: /pages/week-1/lecture-1-outline
+  parent: 70f007d8-4ae8-a0b0-ea4f-00fa8931c506
+  weight: 10
+- identifier: a4a9ba01-b030-11d9-204c-ba12fbc0f60b
+  name: We Did Nothing Wrong Assignment
+  pageRef: /pages/week-1/we-did-nothing-wrong
+  parent: 70f007d8-4ae8-a0b0-ea4f-00fa8931c506
+  weight: 20
+- identifier: 6e76f1ca-8214-a450-c84c-bced0d6be017
+  name: Critique Assignment 1
+  pageRef: /pages/week-1/critique-assignment-1
+  parent: 70f007d8-4ae8-a0b0-ea4f-00fa8931c506
+  weight: 30
+- identifier: 3610b8eb-173d-dad3-75e0-c9bf4c6d3ee4
+  name: Lecture 2 Outline
+  pageRef: /pages/week-2/lecture-2-outline
+  parent: d23c09ff-9de9-dc9c-b989-05d72c54fd66
+  weight: 10
+- identifier: 296c66ea-a30e-98fb-be04-74d631d544ec
+  name: Domain Name System (DNS) Assignment
+  pageRef: /pages/week-2/domain-name-system-dns-assignment
+  parent: d23c09ff-9de9-dc9c-b989-05d72c54fd66
+  weight: 20
+- identifier: 09361169-bc52-2c62-2a18-8d7cf0c6d2ac
+  name: Lecture 3 Outline
+  pageRef: /pages/week-2/lecture-3-outline
+  parent: d23c09ff-9de9-dc9c-b989-05d72c54fd66
+  weight: 30
+- identifier: 37760e09-a6c5-09c9-e969-bcefe6230e7d
+  name: UNIX Assignment Part 1
+  pageRef: /pages/week-2/unix-assignment-part-1
+  parent: d23c09ff-9de9-dc9c-b989-05d72c54fd66
+  weight: 40
+- identifier: 4bd4d775-885a-2661-47dc-64a6eba38676
+  name: Lecture 4 Outline
+  pageRef: /pages/week-3/lecture-4-outline
+  parent: 81056cb9-5545-9139-0582-b2e55570d21a
+  weight: 10
+- identifier: 05b631a6-ef1c-2f86-b877-12c4e1b89310
+  name: Lecture 5 Outline
+  pageRef: /pages/week-3/lecture-5-outline
+  parent: 81056cb9-5545-9139-0582-b2e55570d21a
+  weight: 20
+- identifier: 58979a0d-36a2-6cf8-2be3-a2f5313e3250
+  name: UNIX Assignment Part 2
+  pageRef: /pages/week-3/unix-assignment-part-2
+  parent: 81056cb9-5545-9139-0582-b2e55570d21a
+  weight: 30
+- identifier: 0a3d288e-4cbc-112c-d90a-71a2c259a60e
+  name: Lecture 6 Outline
+  pageRef: /pages/week-4/lecture-6-outline
+  parent: 0466ee2b-5ebb-72d0-ad4f-7badf3b6c645
+  weight: 10
+- identifier: 85894c20-22fb-054e-580a-61a43ed2648d
+  name: Eraser Assignment
+  pageRef: /pages/week-4/eraser-assignment
+  parent: 0466ee2b-5ebb-72d0-ad4f-7badf3b6c645
+  weight: 20
+- identifier: 694987b9-3a9a-8546-0e09-6d00a856d3d0
+  name: Lecture 7 Outline
+  pageRef: /pages/week-4/lecture-7-outline
+  parent: 0466ee2b-5ebb-72d0-ad4f-7badf3b6c645
+  weight: 30
+- identifier: 669830ff-a145-23d6-dcee-00927f0c1d39
+  name: MapReduce Assignment
+  pageRef: /pages/week-4/mapreduce-assignment
+  parent: 0466ee2b-5ebb-72d0-ad4f-7badf3b6c645
+  weight: 40
+- identifier: b882122b-9e06-c5d6-61c9-7ce3e39fcf07
+  name: Critique Assignment 2
+  pageRef: /pages/week-4/critique-assignment-2
+  parent: 0466ee2b-5ebb-72d0-ad4f-7badf3b6c645
+  weight: 50
+- identifier: 89e1e54e-a14e-f974-0668-9840928834a2
+  name: Lecture 8 Outline
+  pageRef: /pages/week-5/lecture-8-outline
+  parent: a8eaa3de-11de-35a2-f8d6-b2d186c97fc6
+  weight: 10
+- identifier: d592637b-bae8-71c6-59ff-f27fb133b62a
+  name: DARPA Assignment
+  pageRef: /pages/week-5/darpa-assignment
+  parent: a8eaa3de-11de-35a2-f8d6-b2d186c97fc6
+  weight: 20
+- identifier: 82d38378-244b-6686-4fad-14c082cb5df9
+  name: Lecture 9 Outline
+  pageRef: /pages/week-5/lecture-9-outline
+  parent: a8eaa3de-11de-35a2-f8d6-b2d186c97fc6
+  weight: 30
+- identifier: 88350e45-d2ab-eb7d-9d77-bcfb2ecec721
+  name: Landmark Routing Assignment
+  pageRef: /pages/week-5/landmark-routing-assignment
+  parent: a8eaa3de-11de-35a2-f8d6-b2d186c97fc6
+  weight: 40
+- identifier: 26febf46-605f-599b-aa63-c8504b6e5d4d
+  name: Lecture 10 Outline
+  pageRef: /pages/week-6/lecture-10-outline
+  parent: 75800336-c3a2-ebee-84a1-8bb126a5a60b
+  weight: 10
+- identifier: a832ff85-3be6-a295-c5a6-23b102707bb8
+  name: Lecture 11 Outline
+  pageRef: /pages/week-6/lecture-11-outline
+  parent: 75800336-c3a2-ebee-84a1-8bb126a5a60b
+  weight: 20
+- identifier: c09c7d62-696b-071f-ffb0-88433fa31b32
+  name: RON Assignment
+  pageRef: /pages/week-6/ron-assignment
+  parent: 75800336-c3a2-ebee-84a1-8bb126a5a60b
+  weight: 30
+- identifier: 3ebfda64-abe4-187a-6497-84708a5f0971
+  name: Lecture 12 Outline
+  pageRef: /pages/week-7/lecture-12-outline
+  parent: 0abfab7f-cd01-9a6a-159d-1afa3fd61f99
+  weight: 10
+- identifier: 72f0d675-cb14-ba19-4c5d-7a81051af829
+  name: DCTCP Assignment
+  pageRef: /pages/week-7/dctcp-assignment
+  parent: 0abfab7f-cd01-9a6a-159d-1afa3fd61f99
+  weight: 20
+- identifier: e46aed55-3f04-cfcf-dcdd-9ab3513be6ed
+  name: Lecture 13 Outline
+  pageRef: /pages/week-7/lecture-13-outline
+  parent: 0abfab7f-cd01-9a6a-159d-1afa3fd61f99
+  weight: 30
+- identifier: 0de7a026-cc51-8d64-2305-b1769d62af0f
+  name: CDN Assignment
+  pageRef: /pages/week-7/cdn-assignment
+  parent: 0abfab7f-cd01-9a6a-159d-1afa3fd61f99
+  weight: 40
+- identifier: e41330e2-fb4f-3118-bfb7-88e686385fc7
+  name: Lecture 14 Outline
+  pageRef: /pages/week-8/lecture-14-outline
+  parent: 03839826-8d83-1a70-6fad-0af0bfa301d7
+  weight: 10
+- identifier: 766d3b59-5f03-a2f4-b1ad-4d15d2427648
+  name: Distributed Storage Assignment
+  pageRef: /pages/week-8/distributed-storage-assignment
+  parent: 03839826-8d83-1a70-6fad-0af0bfa301d7
+  weight: 20
+- identifier: f982d841-2b34-3c22-7262-04fc7b163732
+  name: Lecture 15 Outline
+  pageRef: /pages/week-8/lecture-15-outline
+  parent: 03839826-8d83-1a70-6fad-0af0bfa301d7
+  weight: 30
+- identifier: c46fe11e-d023-04f5-7535-4315faa42e52
+  name: Lecture 16 Outline
+  pageRef: /pages/week-9/lecture-16-outline
+  parent: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
+  weight: 10
+- identifier: cbb27708-c82e-11a7-a3f9-be7fc848063b
+  name: Log-Structured File System (LFS) Assignment
+  pageRef: /pages/week-9/log-structured-file-system-lfs-assignment
+  parent: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
+  weight: 20
+- identifier: 0f38d012-21c7-a072-b7fd-cd72637e5cd3
+  name: Lecture 17 Outline
+  pageRef: /pages/week-9/lecture-17-outline
+  parent: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
+  weight: 30
+- identifier: b1089f5d-b898-b0e4-3de1-1f7b4fb2a366
+  name: Lecture 18 Outline
+  pageRef: /pages/week-10/lecture-18-outline
+  parent: 62a94c78-a524-3c30-60aa-11c27ff81fc7
+  weight: 10
+- identifier: c109e0c5-f4f6-9b52-7d96-b0c911fcd579
+  name: Consistency Guarantees Assignment
+  pageRef: /pages/week-10/consistency-guarantees-assignment
+  parent: 62a94c78-a524-3c30-60aa-11c27ff81fc7
+  weight: 20
+- identifier: 65aa4eed-05a6-e3c3-31b7-24d8f6b44e7d
+  name: Lecture 19 Outline
+  pageRef: /pages/week-11/lecture-19-outline
+  parent: c7a234fb-b37e-e20a-41b9-581882a0afcd
+  weight: 10
+- identifier: 664be575-c00e-8b73-1e97-37cd0a323c01
+  name: Raft Assignment
+  pageRef: /pages/week-11/raft-assignment
+  parent: c7a234fb-b37e-e20a-41b9-581882a0afcd
+  weight: 20
+- identifier: 45c3152a-7c7a-8e9d-0344-24fc1d9e7161
+  name: Lecture 20 Outline
+  pageRef: /pages/week-11/lecture-20-outline
+  parent: c7a234fb-b37e-e20a-41b9-581882a0afcd
+  weight: 30
+- identifier: 2500dbfe-4b2f-c63e-8d8a-c612f61c4d08
+  name: Lecture 21 Outline
+  pageRef: /pages/week-12/lecture-21-outline
+  parent: 463ad0d7-960d-0f16-fac5-ad1eab91ef20
+  weight: 10
+- identifier: d85bd78d-4139-ffc6-6099-38511ef16101
+  name: Why Cryptosystems Fail Assignment
+  pageRef: /pages/week-12/why-cryptosystems-fail-assignment
+  parent: 463ad0d7-960d-0f16-fac5-ad1eab91ef20
+  weight: 20
+- identifier: d855de67-a6df-3be8-d7e7-b03e92d249a3
+  name: Lecture 22 Outline
+  pageRef: /pages/week-12/lecture-22-outline
+  parent: 463ad0d7-960d-0f16-fac5-ad1eab91ef20
+  weight: 30
+- identifier: d7e80479-aaf3-38d9-e79e-b2f538c418b3
+  name: DNSSEC Assignment
+  pageRef: /pages/week-12/dnssec-assignment
+  parent: 463ad0d7-960d-0f16-fac5-ad1eab91ef20
+  weight: 40
+- identifier: 4793bb3a-5463-dd86-f8d5-6dc6fdf33ccb
+  name: Lecture 23 Outline
+  pageRef: /pages/week-13/lecture-23-outline
+  parent: 87aba984-30c8-d18b-3f71-7bdec998328f
+  weight: 10
+- identifier: ea13cbf1-25e6-cb4f-d552-53fee6563f83
+  name: Botnets Assignment
+  pageRef: /pages/week-13/botnets-assignment
+  parent: 87aba984-30c8-d18b-3f71-7bdec998328f
+  weight: 20
+- identifier: c4a5c659-5c87-2d2d-140b-12b013818b4a
+  name: Lecture 24 Outline
+  pageRef: /pages/week-13/lecture-24-outline
+  parent: 87aba984-30c8-d18b-3f71-7bdec998328f
+  weight: 30
+- identifier: f16c7835-ea51-9931-2f17-c5652cc47102
+  name: Memory Corruption Assignment
+  pageRef: /pages/week-13/memory-corruption-assignment
+  parent: 87aba984-30c8-d18b-3f71-7bdec998328f
+  weight: 40
+- identifier: 935d90a5-7a9a-0169-7319-6c14b0526d90
+  name: Lecture 25 Outline
+  pageRef: /pages/week-14/lecture-25-outline
+  parent: a53ea92f-4c3d-bec4-3ffa-e7cf73d6eb29
+  weight: 10
+- identifier: 447da471-034f-b347-4c11-bbe7bfa9e6b3
+  name: Meltdown Assignment
+  pageRef: /pages/week-14/meltdown-assignment
+  parent: a53ea92f-4c3d-bec4-3ffa-e7cf73d6eb29
+  weight: 20
+- identifier: 1f147788-1493-7d98-11fd-9b451a7d7a4e
+  name: Trusting Trust Assignment
+  pageRef: /pages/week-14/trusting-trust-assignment
+  parent: a53ea92f-4c3d-bec4-3ffa-e7cf73d6eb29
+  weight: 30
